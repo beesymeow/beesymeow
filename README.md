@@ -1,5 +1,10 @@
 ## Hi, this is my github profile ^_^
 
+- Currently 2nd Year student at Robert Gordon University.
+
+- Have been learning the following languages: c#, html + css, php, and javascript.
+
+- Also learning about Network Design and Implementation, Creative Design/UX and 2D Animation!
 <!--
 **beesymeow/beesymeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
